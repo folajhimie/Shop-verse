@@ -340,6 +340,8 @@ const Ecommerce = () => {
           </div>
         </div>
 
+        {/* this is the way to go */}
+        {/* this is the way to go */}
 
 
 
